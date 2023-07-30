@@ -10,8 +10,6 @@ const number = 42;
 const result2 = str + number; 
 console.log(result2);
 
-
-
 const num = 10;
 
 const result3 = num + bool; 
